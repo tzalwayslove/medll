@@ -1,0 +1,53 @@
+body{
+    background-color: #f1f1f1;}
+.cooperation-ol{
+    list-style: none;
+    padding-left: 0;
+}
+.cooperation-ol li{
+    float: left;
+    font:400 14px/74px '微软雅黑';
+    margin-right:6px;
+}
+.bedchose{
+    background-color: #fff;
+}
+.bedtable{
+    background-color: #fff;
+    width: 100%;
+    margin-top:20px;
+    text-align: center;
+    table-layout: fixed;
+    margin-bottom: 20px;
+}
+.bedtable thead{
+    font: 14px/40px '微软雅黑';
+}
+.bedtable tr{
+    color: #666666;
+    font-size:14px;
+    border-bottom: 1px solid #f1f1f1;
+}
+.bedtable .bedtablea{
+    border: 1px solid #2d97fc;
+    color: #2d97fc;
+    padding: 6px 26px;
+    display: inline-block;
+    font-size: 14px;
+    border-radius: 6px;
+    margin: 6px 0;
+}
+.bedtable a{
+    color: #666;
+    padding: 6px 10px;
+    transition:0.3s;
+}
+.bedtable a:hover{
+    background-color: #2d97fc;
+    border-radius: 8px;
+    color: #fff;
+}
+.bedtable .bedtablea:hover{
+    background-color: #2d97fc;
+    color: #fff;
+}

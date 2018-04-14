@@ -1,0 +1,228 @@
+body{
+    background-color: #f3f3f3;
+}
+.cooperation-ol{
+    list-style: none;
+    padding-left: 0;
+}
+.cooperation-ol li{
+    float: left;
+    font:400 14px/74px '微软雅黑';
+    margin-right:6px;
+}
+.details-blue{
+    height: 40px;
+    width: 280px;
+    border-radius: 8px 8px 0 0;
+    background-color: #015ba1;
+    color:#fff;
+    text-align: center;
+    font: 400 18px/40px '微软雅黑';
+}
+.details-content{
+    height: 241px;
+    background-color: #fff;
+    border-top: 1px solid #015ba1;
+}
+.details-content img{
+    float: left;
+    margin: 20px 0 0 20px;
+}
+.details-content-company{
+    float: left;
+    width: 860px;
+}
+.details-content-company-title{
+    border-left: 3px solid #015ba1;
+    font: 400 18px/18px '微软雅黑';
+    margin: 24px 0 0 30px;
+    padding-left: 10px;
+}
+.details-content-company-write{
+    margin-top:16px;
+    font: 400 14px/20px '微软雅黑';
+    text-indent:28px;
+    margin-left:30px;
+}
+.details-content-company-a{
+    display: inline-block;
+    width: 70px;
+    height: 24px;
+    border: 1px solid #59a7fc;
+    color: #59a7fc;
+    border-radius: 12px;
+    text-align: center;
+    margin-top: 16px;
+    margin-left: 30px;
+    font: 400 12px/22px '微软雅黑';
+}
+.service-blue{
+    height: 40px;
+    width: 114px;
+    border-radius: 8px 8px 0 0;
+    background-color: #015ba1;
+    color:#fff;
+    text-align: center;
+    font: 400 18px/40px '微软雅黑';
+    margin-top: 20px;
+
+}
+.service-top{
+    background-color: #fff;
+    border-top: 1px solid #015ba1;
+    font: 400 14px/22px '微软雅黑';
+    padding: 20px;
+    text-indent: 28px;
+    border-bottom: 1px solid #eee;
+}
+
+.cooperation-service{
+    background-color: #fff;
+}
+.service-title{
+    margin: 20px;
+    font: 400 18px/22px '微软雅黑';
+    border-left: 3px solid #015ba1;
+    text-indent: 10px;
+}
+.service-list{
+    font: 400 14px/22px '微软雅黑';
+    padding-bottom: 20px;
+}
+.cooperation-experience{
+    background-color: #fff;
+    border-top:1px solid #015ba1;
+    font: 400 14px/48px '微软雅黑';
+    text-align: center;
+    padding-bottom: 20px;
+}
+.cooperation-experience table{
+    width: 96.66666666666667%;
+    border: 1px solid #2d97fc;
+    margin: 20px  auto 0;
+}
+.cooperation-experience thead{
+    background:#2d97fc;
+    color: #fff;
+}
+.cooperation-experience tbody tr{
+    color:#666666;
+    border-bottom: 1px solid #015ba1;
+}
+.cooperation-experience .table-list {
+    border: none ;
+    font: 400 14px/20px '微软雅黑';
+    margin: 10px 0;
+}
+.cooperation-experience .table-list tr{
+    border: none ;
+}
+.cooperation-contact{
+    height: 40px;
+    width: 114px;
+    border-radius: 8px 8px 0 0;
+    background-color: #015ba1;
+    color:#fff;
+    text-align: center;
+    font: 400 18px/40px '微软雅黑';
+    margin-top: 20px;
+}
+.contact-body{
+    background-color: #fff;
+    border-top: 1px solid #015ba1;
+    margin-bottom: 20px;
+}
+.contact-address{
+    margin: 38px 0 0 38px;
+    float: left;
+}
+.contact-address img{
+    float: left;
+}
+.contact-address span{
+    font: 400 16px/20px '微软雅黑';
+    padding-left: 26px;
+    margin-top:10px;
+    float: left;
+}
+.contact-telephone{
+    margin: 38px 0 0 88px;
+    float: left;
+}
+.contact-telephone img{
+    float: left;
+}
+.contact-telephone span{
+    font: 400 16px/20px '微软雅黑';
+    padding-left: 26px;
+    margin-top:10px;
+    float: left;}
+.contact-email{
+    margin: 38px 0 0 78px;
+    float: left;
+}
+.contact-email img{
+    float: left;
+}
+.contact-email span{
+    font: 400 16px/20px '微软雅黑';
+    padding-left: 26px;
+    margin-top:10px;
+    float: left;}
+
+/**临床单位详情开始**/
+.details-content-company-list {
+    border-left: 3px solid #015ba1;
+    font: 400 18px/18px '微软雅黑';
+    margin: 24px 0 10px 30px;
+    padding-left: 10px;
+}
+.details-content-company-br{
+    padding-left: 28px;
+}
+.ethical-top{
+    height: 40px;
+    width: 156px;
+    border-radius: 8px 8px 0 0;
+    background-color: #015ba1;
+    color: #fff;
+    text-align: center;
+    font: 400 18px/40px '微软雅黑';
+    margin-top: 20px;
+}
+.ethical-body{
+    height: 74px;
+    background-color: #fff;
+    border-top: 1px solid #015ba1;
+}
+.ethcal-download{
+    text-align: center;
+    font: 400 14px/70px '微软雅黑';
+}
+.unit-email{
+    margin: 38px 0 20px 38px;
+    float: left;
+}
+.unit-email img{
+    float: left;
+}
+.unit-email span{
+    font: 400 16px/20px '微软雅黑';
+    padding-left: 26px;
+    margin-top: 10px;
+    float: left;
+}
+.unit-wx{
+    margin: 38px 0 20px 115px;
+    float: left;
+}
+.unit-wx img{
+    float: left;
+}
+.unit-wx span{
+    font: 400 16px/20px '微软雅黑';
+    padding-left: 26px;
+    margin-top: 10px;
+    float: left;
+}
+/**临床单位详情结束**/

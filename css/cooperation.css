@@ -1,0 +1,213 @@
+body{
+    background-color: #f3f3f3;
+}
+.cooperation-ol{
+    list-style: none;
+    padding-left: 0;
+}
+.cooperation-ol li{
+    float: left;
+    font:400 14px/74px '微软雅黑';
+    margin-right:6px;
+}
+.cooperation-option{
+    background-color: #fff;
+    border-radius: 8px;
+}
+.cooperation-option-rowone{
+    height: 54px;
+    border-bottom: 1px solid #eeeeee;
+    margin: 0 16px;
+}
+.cooperation-option-rowone ul{
+    list-style: none;
+    padding: 0;
+}
+.cooperation-option-rowone span{
+    float: left;
+    font:400 14px/50px '微软雅黑';
+}
+.cooperation-option-rowone li{
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+    cursor: pointer;
+    padding:6px 10px;
+    color:#313131;
+}
+.cooperation-option-click{
+    background-color: #015ba1;
+    color: #fff !important;
+    border-radius: 6px;
+}
+.cooperation-option-rowtwo{
+    height: 96px;
+    border-bottom: 1px solid #eeeeee;
+    margin: 0 16px;
+}
+.cooperation-option-rowtwo ul{
+    list-style: none;
+    padding: 0;
+}
+
+.cooperation-option-rowtwo span{
+    float: left;
+    font:400 14px/50px '微软雅黑';
+}
+.cooperation-option-rowtwo li {
+    float: left;
+    margin-top: 10px;
+    margin-left:10px;
+    cursor: pointer;
+    padding: 6px 10px;
+    color: #313131;
+}
+.cooperation-option-rowthree{
+    height:140px;
+    border-bottom: 1px solid #eeeeee;
+    margin: 0 16px;
+}
+.cooperation-option-rowthree ul{
+    list-style: none;
+    padding: 0;
+}
+.cooperation-option-rowthree span{
+    float: left;
+    font:400 14px/50px '微软雅黑';
+}
+.cooperation-option-rowthree img{
+    margin-top: -2px;
+}
+.cooperation-option-rowthree li {
+    float: left;
+    margin-top: 10px;
+    margin-left:10px;
+    cursor: pointer;
+    padding: 6px 10px;
+    color: #313131;
+
+}
+.cooperation-option-rowfour{
+    height:280px;
+    /*padding: 0 16px;*/
+    box-shadow:10px 10px 15px #e6e6e6;
+}
+.cooperation-option-rowfour ul{
+    list-style: none;
+    padding: 0;
+}
+.cooperation-option-rowfour span{
+    float: left;
+    font:400 14px/40px '微软雅黑';
+    padding-left: 16px;
+}
+.cooperation-option-rowfour img{
+    margin-top: -2px;
+}
+.cooperation-option-rowfour li {
+    float: left;
+    margin-top: 6px;
+    margin-left:10px;
+    cursor: pointer;
+    padding: 6px 10px;
+    color: #313131;
+
+}
+.company-list{
+    background-color: #fff;
+    border-left:3px solid #015ba1 ;
+    height: 40px;
+    margin-top: 20px;
+}
+.company-list span{
+    font:400 18px/40px '微软雅黑';
+    padding-left: 10px;
+}
+.company-list .company-english{
+    padding-left: 18px;
+    color: #777777;
+    font-size: 14px;
+}
+.company-list-button{
+    float: right;
+    margin-top:3px;
+    margin-right: 10px;
+}
+.company-left-rowone{
+    height: 160px;
+    width: 900px;
+    background-color: #fff;
+    margin-top: 20px;
+    cursor: pointer;
+    float: left;
+}
+.company-left-rowone:hover{
+    box-shadow: 10px 10px 5px #d6e5f3;
+}
+.company-left-rowone:hover h4{
+    color: #4278af;
+}
+.company-left-rowone img{
+    float: left;
+    margin: 20px 0 0 20px;
+}
+.company-left-rowone-mid{
+    float: left;
+    margin: 20px 0 0 30px;
+    width: 485px;
+
+}
+.company-left-rowone-mid span{
+    color: #cfcfcf;
+    font:400 14px/18px '微软雅黑';
+}
+.company-left-rowone-mid-a{
+    display: inline-block;
+    width: 70px;
+    height: 24px;
+    border: 1px solid #59a7fc;
+    color: #59a7fc;
+    border-radius:12px;
+    text-align: center;
+    margin-top: 4px;
+    margin-right:10px;
+    font:400 12px/22px '微软雅黑';
+}
+.company-left-rowone-mid-eye{
+    width: 110px;
+    margin-top: 10px;
+}
+.company-left-rowone-mid-eye img{
+    float: left;
+    margin: 2px 0 0 0;
+}
+.company-left-rowone-mid-eye span{
+    float: right;
+}
+.company-left-rowone-contantone{
+    width: 100px;
+    height: 36px;
+    border: 1px solid #399dfc;
+    display:inline-block;
+    text-align: center;
+    font:400 14px/34px '微软雅黑';
+    border-radius: 10px;
+    margin-bottom: 15px;
+    margin-left: 60px;
+}
+.company-left-rowone-contantone:hover,.company-left-rowone-contantone:focus,.company-left-rowone-contantone:active{
+    background-color: #2d97fc;
+    color: #ffffff;
+}
+.company-left-rowone-martop{
+    margin-top: 38px;
+}
+.company-right-rowone{
+    margin:20px 0 0 10px ;
+    float: left;
+}
+.company-href{
+    display: block;
+    width: 500px;
+    float: left;
+}

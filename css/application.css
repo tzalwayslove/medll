@@ -1,0 +1,341 @@
+body{
+    background-color: #f1f1f1;}
+.cooperation-ol{
+    list-style: none;
+    padding-left: 0;
+}
+.cooperation-ol li{
+    float: left;
+    font:400 14px/74px '微软雅黑';
+    margin-right:6px;
+}
+.apl-content{
+    background-color: #fff;
+}
+.apl-content ul{
+    list-style: none;
+    padding: 0;
+}
+.apl-contentone{
+    border-bottom: 1px solid #f7f7f7;
+    width: 96%;
+    margin: 0 auto;
+}
+.apl-contenttwo{
+    border-bottom: 1px solid #f7f7f7;
+    width: 96%;
+    margin: 0 auto;
+}
+.apl-contenttwo span{
+    float: left;
+    margin-top: 19px;
+    margin-right: 20px;
+}
+.apl-contenttwo li{
+    float: left;
+    margin-right: 50px;
+    cursor: pointer;
+    margin-top:16px;
+    padding: 4px 10px;
+}
+.apl-contentone span{
+    float: left;
+    margin-top: 19px;
+    margin-right: 20px;
+}
+.apl-contentone li{
+    float: left;
+    margin-right: 50px;
+    cursor: pointer;
+    margin-top:16px;
+    padding: 4px 10px;
+}
+.apl-content-three{
+    border-bottom: 1px solid #f7f7f7;
+    width: 96%;
+    margin: 0 auto;
+}
+.apl-content-three span{
+    float: left;
+    margin-top: 19px;
+    margin-right: 20px;
+}
+.apl-content-three li{
+    float: left;
+    margin-right:20px;
+    cursor: pointer;
+    margin-top:16px;
+}
+.apl-content-three a{
+    padding: 4px 10px;
+    margin-left: -10px;
+}
+.apl-content-three a:hover{
+    background-color: #015ba1;
+    color: #fff;
+    border-radius: 4px;
+}
+.apl-content-four{
+    border-bottom: 1px solid #f7f7f7;
+    width: 96%;
+    margin: 0 auto;
+    position: relative;
+}
+.apl-content-five{
+    width: 96%;
+    margin: 0 auto;
+
+}
+.apl-content-five span{
+    float: left;
+    margin-top: 24px;
+    margin-right: 10px;
+}
+.apl-content-five select{
+    float: left;
+    width: 110px;
+    height: 26px;
+    padding-left: 10px;
+    margin-top: 20px;
+    margin-right: 10px;
+    border: 1px solid #ddd;
+}
+.apl-content-four span{
+    float: left;
+    margin-top: 19px;
+    margin-right: 10px;
+}
+.apl-content-four li{
+    float: left;
+    margin-right:10px;
+    cursor: pointer;
+    margin-top:16px;
+    padding: 2px 10px;
+}
+.apl-ul span{
+     margin-top:4px;
+ }
+.apl-ul li{
+    margin: 4px 10px 4px 0;
+
+}
+.apl-blue{
+    background-color: #015ba1;
+    border-radius: 4px;
+    color: #fff!important;
+    outline: none;
+}
+.apl-bor{
+    border-top: 1px solid #f1f1f1;
+    margin-top: 10px;
+}
+.apl-contentone img{
+    margin-right: 6px;
+    float: left;
+    margin-top: 2px;
+}
+.apl-contentone li:nth-of-type(7){
+    margin-left: 150px;
+}
+.apl-contentone li:nth-of-type(8){
+    margin-left: 13px;
+}
+.apl-contentone li:nth-of-type(9){
+     margin-left: 32px;
+ }
+.apl-contentone li:nth-of-type(10){
+    margin-left: 14px;
+}
+.apl-contentone li:nth-of-type(11){
+     margin-left:-61px;
+}
+.apl-contentone li:nth-of-type(12){
+    margin-left:151px;
+}
+.apl-contentone li:nth-of-type(13){
+    margin-left:-20px;
+}
+.apl-content-four-money{
+    display:none;
+    float: left;
+}
+.apl-content-four-money input{
+    height: 24px;
+    width: 64px;
+    margin-top:4px;
+    float: left;
+
+}
+.apl-content-four-money  span{
+    float: left;
+    margin-top: 6px ;
+    margin-right: 40px;
+    margin-left: 10px;
+}
+.apl-content-four-money div{
+    height: 1px;
+    width: 20px;
+    background-color: #000;
+    position: absolute;
+    left: 684px;
+    top:24px;
+}
+.company-list .company-list-button span{
+    font:400 14px/40px '微软雅黑';
+}
+.apl-color{
+    color: #ff530d;
+}
+.apl-left{
+    height: 112px;
+    width:580px;
+    margin-left: 20px;
+    border-right: 1px dashed #ddd;
+    margin-top:20px;
+    float: left;
+}
+.apl-right{
+    height: 112px;
+    margin-left: 20px;
+    float: left;
+    margin-top:20px;
+}
+.apl-left p{
+    color: #2d97fc;
+    font-size:24px;
+}
+.apl-left ul{
+    list-style: none;
+    padding: 0;
+}
+.apl-left li{
+  float: left;
+  padding: 0 6px;
+  border-right: 1px solid #aaa;
+}
+.apl-left li:nth-last-of-type(1){
+    border-right: none;
+}
+.apl-left li:hover{
+    color: #ff530d;
+}
+.apl-ultype{
+    margin-top: 20px;
+    color: #aaa;
+}
+.a-box{
+    margin-top:30px;
+}
+.a-box a{
+    display: inline-block;
+    padding: 4px 10px;
+    background-color: #d5eafe;
+    margin-right: 10px;
+    border-radius: 8px;
+}
+.apl-bluetop{
+    width: 116px;
+    height: 40px;
+    text-align: center;
+    background-color: #015ba1;
+    color: #fff;
+    font: 400 18px/40px '微软雅黑';
+    border-radius: 8px 8px 0 0;
+}
+.apld-content{
+    background-color: #fff;
+    border-top: 1px solid #015ba1;
+    margin-bottom: 20px;
+}
+.apld-content-one{
+    padding-top: 10px;
+    margin-left: 20px;
+    border-bottom: 1px solid #f1f1f1;
+}
+.apld-content-one span:nth-of-type(1){
+    font: 400 24px/46px '微软雅黑';
+    color: #2d97fc;
+}
+.apld-content-one span:nth-of-type(2){
+     font: 400 18px/46px '微软雅黑';
+     color: #313131;
+     margin-left: 30px;
+ }
+.apld-content-one span:nth-of-type(3){
+    font: 400 14px/46px '微软雅黑';
+    color: #aaaaaa;
+    margin-left:10px;
+}
+.apld-content-one img{
+    margin-left: 700px;
+    margin-top: -10px;
+}
+.apld-content-one ul{
+    list-style: none;
+    padding: 0;
+}
+.apld-content-one li{
+    float: left;
+    padding: 0 6px;
+    border-right: 1px solid #aaa;
+}
+.apld-content-one li:nth-last-of-type(1){
+    border-right: none;
+}
+.apld-content-one li:hover{
+    color: #ff530d;
+}
+.apl-ultype{
+    margin-top: 20px;
+    color: #aaa;
+}
+.apld-content-two{
+    margin-left: 20px;
+    border-bottom: 1px solid #f1f1f1;
+}
+.apld-content-three{
+    margin-left: 20px;
+    border-bottom: 1px solid #f1f1f1;
+}
+.apld-content-four{
+    margin-left: 20px;
+    border-bottom: 1px solid #f1f1f1;
+}
+.apld-content-two div:nth-of-type(1){
+    border-left: 2px solid #015ba1;
+    padding-left: 20px;
+    font: 400 18px/20px '微软雅黑';
+    margin: 20px 0;
+}
+.apld-content-three div:nth-of-type(1){
+    border-left: 2px solid #015ba1;
+    padding-left: 20px;
+    font: 400 18px/20px '微软雅黑';
+    margin: 20px 0;
+}
+.apld-content-three span:nth-of-type(even){
+    color:#000;
+    margin-right: 200px;
+}
+.apld-content-three span:nth-of-type(odd){
+    color:#aaaaaa;
+}
+.apld-content-three span:nth-of-type(6){
+    margin-right: 188px;
+}
+.apld-content-four div:nth-child(1){
+    border-left: 2px solid #015ba1;
+    padding-left: 20px;
+    font: 400 18px/20px '微软雅黑';
+    margin: 20px 0;
+}
+.apld-content-four ol:nth-of-type(2){
+    list-style: none;
+    padding: 0 0 20px;
+}
+.apld-content button{
+    text-align: center;
+    background-color: #e60000;
+    color: #ffffff;
+    margin: 20px 0 20px 550px;
+}

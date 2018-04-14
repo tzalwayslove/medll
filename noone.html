@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/public.css">
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/no.css">
+    <link rel="stylesheet" href="css/reward.css">
+    <title>不良测试反应</title>
+</head>
+<body>
+<!--顶部固定开始-->
+<div class="navbar-fixed-top">
+    <!--登录注册开始-->
+    <div class="login-bgc">
+        <div class="container">
+            <div class="public-login">
+                <a class="public-login-aone" href="login.html">登录</a>
+                <a class="public-login-atwo" href="register-more.html">注册</a>
+                <a class="public-login-athree" href="#">我要投稿</a>
+                <a class="public-login-afour" href="#">成为medl经纪人</a>
+            </div>
+        </div>
+    </div>
+    <!--登录注册结束-->
+    <!--navbar导航栏开始-->
+    <div class="container-fluid public-navbar-bg">
+        <div class="container">
+            <div class="public-logo">
+                <img src="img/public-navbar-logo.png" alt="logo">
+            </div>
+            <ul class="publiv-navbar">
+                <li>
+                    <a href="medl-index.html">首页</a>
+                </li>
+                <li>
+                    <a href="cooperation.html">CRO公司</a>
+                </li>
+                <li>
+                    <a href="clinical-unit.html">临床单位</a>
+                </li>
+                <li>
+                    <a href="reward.html">悬赏任务</a>
+                </li>
+                <li>
+                    <a href="questionnaire.html">调研问卷</a>
+                </li>
+                <li>
+                    <a href="bed.html">临床招募</a>
+                </li>
+                <li>
+                    <a href="test.html">受试者注册</a>
+                </li>
+                <li class="publiv-navbar-li">
+                    <a href="no.html">不良反应测试</a>
+                </li>
+                <li>
+                    <a href="application.html">招聘</a>
+                </li>
+                <li>
+                    <a href="word.html">文库</a>
+                </li>
+            </ul>
+            <div class="btn-group">
+                <button type="button" class="btn btn-default public-btn dropdown-toggle" data-toggle="dropdown">
+                    账号服务
+                    <span class="caret"></span>
+                </button>
+                <ul class="dropdown-menu" role="menu" >
+                    <li><a href="#">医院/CRO公司/医企</a></li>
+                    <li><a href="backstage-1.html">个人</a></li>
+                    <li><a href="#">订单中心</a></li>
+                    <li><a href="#">收获地址</a></li>
+                    <li><a href="#">账户</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!--navbar导航栏结束-->
+</div>
+<!--顶部固定结束-->
+<div class="public-height"></div>
+
+<div class="container" style="margin-top: 20px">
+    <ul  class="nav nav-tabs">
+        <li class="active">
+            <a href="#A" class="no-a" data-toggle="tab">发布不良测试</a>
+        </li>
+        <li><a href="#B" data-toggle="tab">上报不良测试</a></li>
+    </ul>
+    <div  class="tab-content">
+        <div class="tab-pane fade in active" id="A">
+        </div>
+        <div class="tab-pane fade" id="B">
+
+        </div>
+
+    </div>
+</div>
+<script src="js/jquery-1.10.1.js"></script>
+<script src="js/bootstrap.js"></script>
+<script>
+    $(function () {
+        $('.re-last-paytype :input').bind('click',function () {
+            $('.re-last-paytype :input').not(this).attr('checked',false);
+        });
+//        $('.re-topdetails-span').on({
+//            mouseover:function () {
+//                $('.re-topdetails-hide').toggle();
+//            },
+//            mouseout:function () {
+//                alert('你将鼠标移开了');
+//            }
+//        })
+    })
+</script>
+</body>
+</html>
+
+</body>
+</html>

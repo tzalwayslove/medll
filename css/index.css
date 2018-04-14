@@ -1,0 +1,240 @@
+.index-section{
+    margin-top: 50px;
+}
+.index-section-left{
+    width: 784px;
+    float: left;
+}
+.index-section-right{
+    width: 384px;
+    float: right;
+}
+.index-section-article{
+    height:284px;
+}
+.index-section-article-title{
+    height: 33px;
+}
+.index-section-article-title-1{
+    font-size: 18px;
+    float: left;
+    width:90px;
+    padding-bottom:5px;
+    color: #000;
+    border-bottom: 2px solid #015ba1;
+}
+.index-section-article-title-2{
+    color:#777;
+    float: left;
+    padding-left:18px;
+    font-size:14px;
+    width:630px;
+    padding-bottom:8px;
+    padding-top: 4px;
+    border-bottom: 1px solid #dddddd;
+}
+.index-section-article-title-more{
+    float: right;
+    border-bottom: 1px solid #dddddd;
+    padding-bottom:8px;
+    padding-top: 4px;
+}
+.index-section-article-title-more span{
+    padding-right:17px;
+    font-size: 14px;
+    color:#aaaaaa;
+}
+.index-section-article-title-more img{
+    margin-top: -4px;
+}
+.index-section-article-list{
+    height:45px;
+    color: #313131;
+    border-bottom: 1px dashed #e1e1e1;
+}
+.index-section-article-list-square{
+    width: 6px;
+    height: 6px;
+    background-color: #777777;
+    margin-top: 18px;
+    float: left;
+}
+.index-section-article-list-career{
+    font: 400 14px/44px '微软雅黑';
+    padding: 0px 10px 0 10px;
+    float: left;
+}
+.index-section-article-list-money{
+    padding-right:6px;
+    padding-left:6px;
+    height: 18px;
+    border-right: 1px solid #6d6d6d;
+    float: left;
+    font-size: 14px;
+    margin-top: 12px;
+}
+.index-section-article-list-experience{
+    padding-right:6px;
+    padding-left:6px;
+    height: 18px;
+    float: left;
+    font-size: 14px;
+    margin-top: 12px;
+}
+.index-section-article-list-time{
+    float: right;
+    font: 400 14px/44px '微软雅黑';
+    color: #777777;
+}
+
+.index-section-company-title{
+    height: 33px;
+}
+.index-section-company-title-1{
+    font-size: 18px;
+    float: left;
+    width:90px;
+    padding-bottom:5px;
+    color: #000;
+    border-bottom: 2px solid #015ba1;
+}
+.index-section-company-title-2{
+    color:#777;
+    float: left;
+    padding-left:18px;
+    font-size:14px;
+    width:241px;
+    padding-bottom:8px;
+    padding-top: 4px;
+    border-bottom: 1px solid #dddddd;
+}
+.index-section-company-title-more{
+    float: right;
+    border-bottom: 1px solid #dddddd;
+    padding-bottom:8px;
+    padding-top: 4px;
+}
+.index-section-company-title-more span{
+    padding-right:6px;
+    font-size: 14px;
+    color:#aaaaaa;
+}
+.index-section-article-title-more img{
+    margin-top: -4px;
+}
+.index-section-right-company{
+    height: 171px;
+}
+.index-section-right-company-picword{
+    height: 122px;
+
+}
+.index-section-right-company-picword img{
+    float: left;
+    margin-top: 18px;
+}
+.index-section-right-company-picword-right{
+    float: right;
+    width: 250px;
+    margin-left: 20px;
+    margin-top: 16px;
+    font: 400 12px/14px '微软雅黑';
+    color: #c3c3c3;
+}
+.index-section-right-company-picword-right h4{
+    color:#313131;
+}
+.index-section-right-company-btn{
+  height: 44px;
+  border-bottom: 1px solid #f3f3f4;
+  padding-top: 10px;
+
+}
+.index-section-right-company-btn ul{
+    margin:0;
+    padding:0;
+}
+.index-section-right-company-btn li{
+    list-style: none;
+}
+.index-section-right-company-btn a{
+    float: left;
+    width: 70px;
+    height: 22px;
+    text-align: center;
+    border: 1px solid #72baff;
+    border-radius:8px;
+    margin-left: 16px;
+}
+.index-advertisement{
+    background: url("../img/index-bg.png") no-repeat;
+    height:579px;
+    margin-top: 20px;
+}
+.myAdvertisement-title{
+    text-align: center;
+    color: #2d97fc;
+    font-size: 36px;
+    padding-top: 40px;
+}
+.myAdvertisement-descrition{
+    color: #000000;
+    font-size:16px;
+    margin-top:10px;
+    text-align: center;
+}
+.myadvertisement-sectiononeparent{
+    position: relative;
+    height: 380px;
+    display: inline-block;
+}
+.myadvertisement-sectionone{
+    height: 354px;
+    width: 272px;
+    background-color: #fff;
+    border-radius: 36px 0 36px 0;
+    float: left;
+}
+.myadvertisement-sectionone img{
+    padding: 22px 0 0 85px;
+    display: block;
+}
+.adv-name{
+    font-size: 16px;
+    margin-top: 20px;
+    margin-left:77px;
+    display: inline-block;
+}
+.adv-carrer{
+    font-size: 14px;
+    margin-left: 8px;
+}
+.myadvertisement-sectionone-descrition{
+    padding: 14px 16px 6px;
+    font-size: 12px;
+    color: #c3c3c3;
+}
+.myadvertisement-sectionone-type{
+    display: inline-block;
+    padding: 6px 10px;
+    border: 1px solid #72baff;
+    color: #72baff;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.myadvertisement-sectionone-call{
+    position: absolute;
+    width: 120px;
+    height: 40px;
+    background-color: #006fd8;
+    color: #ffffff;
+    text-align: center;
+    font:400 16px/38px "微软雅黑";
+    top:338px;
+    left:70px;
+    border-radius:6px;
+}
+.advleft{
+    margin-left:30px;
+}
